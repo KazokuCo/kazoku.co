@@ -2,9 +2,14 @@
   max-width: 750px;
 }
 
-.navbar {
+.navbar-kazoku {
   background: none;
   border-bottom: 1px solid #e8e8e8;
+  
+  a {
+    color: #666;
+    font-weight: 500;
+  }
 }
 
 .page-content {
