@@ -38,4 +38,4 @@ Kazoku Collective is a growing network of online communities celebrating things 
 
 <hr />
 
-If you are interested in creating a community of your own to add to our network, please contact us with your proposal via email: contact@kazoku.co
+If you are interested in creating a community of your own to add to our network, please contact us with your proposal via email: [contact@kazoku.co](mailto:contact@kazoku.co)
