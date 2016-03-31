@@ -15,7 +15,9 @@ Kazoku Collective is a growing network of online communities celebrating things 
   </div>
 
   <div class="description" markdown="1">
-  Kazamatsuri is a home for English-speaking fans of Key's visual novels and related media. It is a community of highly introspective and empathic people who often look to Key's evocative stories for emotional catharsis. If titles like "CLANNAD", "Angel Beats!", "Little Busters!" and "Rewrite" ring any bells, then you'll have some idea of what Key is all about. If Key is of any interest to you, we hope you'll consider joining our family!
+  Kazamatsuri is a home for English-speaking fans of Key's visual novels and related media. It is a community of highly introspective and empathic people who often look to Key's evocative stories for emotional catharsis.
+  
+  If titles like "CLANNAD", "Angel Beats!", "Little Busters!" and "Rewrite" ring any bells, then you'll have some idea of what Key is all about. If these stories are of any interest to you, we hope you'll consider joining our family!
   </div>
 </div>
 
@@ -29,7 +31,9 @@ Kazoku Collective is a growing network of online communities celebrating things 
   </div>
 
   <div class="description" markdown="1">
-  Rokkenjima is a new community for English-speaking fans of 07th Expansion and Ryukishi07's works. For many, the central appeal of 07th Expansion is from the 'When They Cry' series of detective fiction, where reality and illusions overlap to obscure the truth. Whether it be crafting and debating theories, or creating and solving our own mysteries, there's sure to be something to suit everyone's tastes. Won't you join our tea party?
+  Rokkenjima is a new community for English-speaking fans of 07th Expansion and Ryukishi07's works. For many, the central appeal of 07th Expansion is from the 'When They Cry' series of detective fiction, where reality and illusions overlap to obscure the truth.
+  
+  Whether it be crafting and debating theories, or creating and solving our own mysteries, there's sure to be something to suit everyone's tastes. Won't you join our tea party?
   </div>
 </div>
 
