@@ -11,7 +11,7 @@ Kazoku Collective is a growing network of online communities celebrating things 
 
 <div class="community">
   <div class="logo" markdown="1">
- (![Kazamatsuri](/logos/CLANNADs.png)}[http://kazamatsuri.org/]
+ [![Kazamatsuri](/logos/CLANNADs.png)](http://kazamatsuri.org/)
   </div>
 
   <div class="description" markdown="1">
@@ -25,7 +25,7 @@ Kazoku Collective is a growing network of online communities celebrating things 
 
 <div class="community">
   <div class="logo" markdown="1">
-  (![Rokkenjima](/logos/rokkenjimalogos.png))[http://rokkenjima.org/]
+  [![Rokkenjima](/logos/rokkenjimalogos.png)](http://rokkenjima.org/)
   </div>
 
   <div class="description" markdown="1">
