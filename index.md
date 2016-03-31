@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="logo" markdown="1">
-![Kazoku Collective](/logos/kazokucollective5.52.png)
+![Kazoku Collective](/logos/kazokucollective5.62.png)
 </div>
 Kazoku Collective is a growing network of online communities celebrating things we love. Our focus is on providing spaces for people to geek out about particular niche media that might not otherwise have a dedicated space on the internet. 「家族」 or 'Kazoku' is a Japanese word which means 'family', and that perfectly describes the kind of communites we hope to foster. It's about bringing the love back to communities; making it feel less depersonalised and more homely.
 
