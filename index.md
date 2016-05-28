@@ -15,7 +15,7 @@ Our communities share a passion for discussing and analysing media at great dept
 
 <div class="community">
   <div class="logo" markdown="1">
- [![Kazamatsuri](/logos/CLANNADs.png)](http://kazamatsuri.org/)
+ [![Kazamatsuri](/logos/Kanon.png)](http://kazamatsuri.org/)
   </div>
 
   <div class="description" markdown="1">
